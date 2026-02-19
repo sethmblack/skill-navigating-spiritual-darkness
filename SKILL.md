@@ -3,8 +3,9 @@ name: navigating-spiritual-darkness
 description: Continue faithful action through periods of felt absence of God, spiritual dryness, or profound doubt — based on Mother Teresa's fifty years of dark night.
 license: MIT
 metadata:
+  version: 1.0.4568
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - navigating-spiritual-darkness
 - transformation
